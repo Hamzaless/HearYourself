@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearYourself", "HearYourself\HearYourself.csproj", "{CF429FFE-F48E-48B2-B8C8-762E3239997C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF429FFE-F48E-48B2-B8C8-762E3239997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF429FFE-F48E-48B2-B8C8-762E3239997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF429FFE-F48E-48B2-B8C8-762E3239997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF429FFE-F48E-48B2-B8C8-762E3239997C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E6F43E-F87F-4AC0-A5B0-EBE021E88C3F}
+	EndGlobalSection
+EndGlobal
